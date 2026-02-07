@@ -1,16 +1,73 @@
-## Hi there 👋
+<div align="center">
+  
+# 👋 Hi, I'm Markus Mikely
+### Senior Full-Stack Developer | AI Engineer in Training
 
-<!--
-**markusmikely/markusmikely** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 London, UK | 📧 markusmikely@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/markus-mikely-81666630) | 💼 [Portfolio](https://your-portfolio-link.com)
 
-Here are some ideas to get you started:
+🚀 **Currently seeking Senior Full-Stack or AI Engineering roles**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+## 📊 GitHub Stats
+<div align="center">
+  
+![Markus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=markusmikely&show_icons=true&theme=radical&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=markusmikely&layout=compact&theme=radical)
+
+</div>
+
+## 🛠️ Tech Stack
+**Languages & Frameworks**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**AI & Data**
+![LangChain](https://img.shields.io/badge/LangChain-FF6B35?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+**Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+## 🔥 Current Projects
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[Mintora](https://github.com/markusmikely/mintora)** | AI-powered content moderation platform | Next.js, FastAPI, LangChain, PostgreSQL |
+| **[PreciousMarketWatch](https://github.com/markusmikely/preciousmarketwatch)** | AI commodity tracker with predictive analytics | Python, FastAPI, OpenAI, TimescaleDB |
+| **[MoodMate](https://github.com/markusmikely/moodmate)** | Mental wellness tracker with AI insights | React Native, Node.js, MongoDB |
+| **[Experiments](https://github.com/markusmikely/experiments)** | AI/Blockchain learning lab | Various - daily learning commits |
+
+## 📈 Recent Activity
+<!--START_SECTION:activity-->
+<!-- This will be auto-populated by GitHub Actions -->
+1. 🎉 Merged PR #1 in [repo-name]
+2. 🚀 Pushed to [branch-name]
+3. 📝 Created [repo-name]
+<!--END_SECTION:activity-->
+
+## 📫 Let's Connect
+- **LinkedIn:** [/in/markus-mikely-81666630](https://linkedin.com/in/markus-mikely-81666630)
+- **Email:** markusmikely@gmail.com
+- **Portfolio:** [Coming Soon - Deploying this week!]
+
+## 🎯 Currently Learning
+- **AI Engineering:** RAG systems, Agent workflows, LLM fine-tuning
+- **Blockchain:** Smart contracts with Solidity, Web3 applications
+- **Certifications:** AWS Solutions Architect, GCP Professional Cloud Architect
+
+---
+
+<div align="center">
+  
+⭐ **Open to collaborations and exciting opportunities in AI/Full-Stack development!** ⭐
+
+</div>
