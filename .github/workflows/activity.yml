@@ -13,12 +13,11 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       
       - name: Update activity in README
-        uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        uses: Readme-Workflows/recent-activity@main
         with:
-          COMMIT_MSG: 'chore: update activity'
-          MAX_LINES: 5
+          GITHUB_USERNAME: markusmikely
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          COMMIT_MSG: 'chore: update recent activity'
