@@ -13,9 +13,9 @@
 ## 📊 GitHub Stats
 <div align="center">
   
-[![Markus's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=markusmikely&theme=solarized-light)](https://github.com/markusmikely)
+[![Markus's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=markusmikely&theme=default)](https://github.com/markusmikely)
 
-[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=markusmikely&theme=solarized-light)](https://github.com/markusmikely)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=markusmikely&theme=default)](https://github.com/markusmikely)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=markusmikely&theme=solarized-light)](https://github.com/markusmikely)
 </div>
