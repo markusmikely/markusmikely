@@ -13,11 +13,11 @@
 ## 📊 GitHub Stats
 <div align="center">
   
-[![Markus's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=markusmikely&theme=radical)](https://github.com/markusmikely)
+[![Markus's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=markusmikely&theme=github_light)](https://github.com/markusmikely)
 
-[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=markusmikely&theme=radical)](https://github.com/markusmikely)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=markusmikely&theme=github_light)](https://github.com/markusmikely)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=markusmikely&theme=radical&hide_border=true)](https://github.com/markusmikely)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=markusmikely&theme=github_light&hide_border=true)](https://github.com/markusmikely)
 </div>
 
 ## 🛠️ Tech Stack
