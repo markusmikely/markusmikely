@@ -52,16 +52,12 @@
 
 ## 📈 Recent Activity
 <!--START_SECTION:activity-->
-<!-- This will be auto-populated by GitHub Actions -->
-1. 🎉 Merged PR #1 in [repo-name]
-2. 🚀 Pushed to [branch-name]
-3. 📝 Created [repo-name]
 <!--END_SECTION:activity-->
 
 ## 📫 Let's Connect
-- **LinkedIn:** [/in/markus-mikely-81666630](https://linkedin.com/in/markus-mikely-81666630)
+- **LinkedIn:** [@markus-mikely](https://linkedin.com/in/markus-mikely-81666630)
 - **Email:** markusmikely@gmail.com
-- **Portfolio:** [Coming Soon - Deploying this week!]
+- **Portfolio:** [markusmikely.com(https://www.markusmikely.com)]
 
 ## 🎯 Currently Learning
 - **AI Engineering:** RAG systems, Agent workflows, LLM fine-tuning
