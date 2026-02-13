@@ -13,9 +13,11 @@
 ## 📊 GitHub Stats
 <div align="center">
   
-![Markus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=markusmikely&show_icons=true&theme=radical&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=markusmikely&layout=compact&theme=radical)
+![Markus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=markusmikely&show_icons=true&theme=radical&hide_title=true&count_private=true&include_all_commits=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=markusmikely&layout=compact&theme=radical&hide_progress=false)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=markusmikely&theme=radical&hide_border=true)
 </div>
 
 ## 🛠️ Tech Stack
