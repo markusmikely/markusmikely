@@ -18,6 +18,6 @@ jobs:
       - name: Update activity in README
         uses: Readme-Workflows/recent-activity@main
         with:
-          GITHUB_USERNAME: markusmikely
+          GH_USERNAME: markusmikely
+        env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          COMMIT_MSG: 'chore: update recent activity'
