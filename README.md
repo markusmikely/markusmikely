@@ -45,7 +45,7 @@
 | **[PreciousMarketWatch](https://github.com/markusmikely/preciousmarketwatch)** | AI commodity tracker with predictive analytics | Python, FastAPI, OpenAI, TimescaleDB |
 | **[MoodMate](https://github.com/markusmikely/moodmate)** | Mental wellness tracker with AI insights | React Native, Node.js, MongoDB |
 | **[Experiments](https://github.com/markusmikely/experiments)** | AI/Blockchain learning lab | Various - daily learning commits |
-| **[Leetcode Journet](https://github.com/markusmikely/leetcode-journey)** | DSA learning lab | Various - daily data structures & algorithms practice |
+| **[Leetcode Journey](https://github.com/markusmikely/leetcode-journey)** | DSA learning lab | Various - daily data structures & algorithms practice |
 
 ## 📈 Recent Activity
 <!--START_SECTION:activity-->
