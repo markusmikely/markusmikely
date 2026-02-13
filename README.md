@@ -57,7 +57,7 @@
 ## 📫 Let's Connect
 - **LinkedIn:** [@markus-mikely](https://linkedin.com/in/markus-mikely-81666630)
 - **Email:** markusmikely@gmail.com
-- **Portfolio:** [markusmikely.com(https://www.markusmikely.com)]
+- **Portfolio:** [markusmikely.com](https://www.markusmikely.com)
 
 ## 🎯 Currently Learning
 - **AI Engineering:** RAG systems, Agent workflows, LLM fine-tuning
