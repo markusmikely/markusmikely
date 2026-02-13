@@ -4,7 +4,7 @@
 ### Senior Full-Stack Developer | AI Engineer in Training
 
 📍 London, UK | 📧 markusmikely@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/markus-mikely-81666630) | 💼 [Portfolio](https://your-portfolio-link.com)
+🔗 [LinkedIn](https://linkedin.com/in/markus-mikely-81666630) | 💼 [Portfolio](https://www.markusmikely.com)
 
 🚀 **Currently seeking Senior Full-Stack or AI Engineering roles**
 
@@ -45,6 +45,7 @@
 | **[PreciousMarketWatch](https://github.com/markusmikely/preciousmarketwatch)** | AI commodity tracker with predictive analytics | Python, FastAPI, OpenAI, TimescaleDB |
 | **[MoodMate](https://github.com/markusmikely/moodmate)** | Mental wellness tracker with AI insights | React Native, Node.js, MongoDB |
 | **[Experiments](https://github.com/markusmikely/experiments)** | AI/Blockchain learning lab | Various - daily learning commits |
+| **[Leetcode Journet](https://github.com/markusmikely/leetcode-journey)** | DSA learning lab | Various - daily data structures & algorithms practice |
 
 ## 📈 Recent Activity
 <!--START_SECTION:activity-->
