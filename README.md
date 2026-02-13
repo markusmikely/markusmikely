@@ -17,7 +17,7 @@
 
 [![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=markusmikely&theme=default)](https://github.com/markusmikely)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=markusmikely&theme=solarized-light)](https://github.com/markusmikely)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=markusmikely&theme=default)](https://github.com/markusmikely)
 </div>
 
 
