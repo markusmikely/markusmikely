@@ -51,10 +51,12 @@
 | **[Leetcode Journey](https://github.com/markusmikely/leetcode-journey)** | DSA learning lab | Various - daily data structures & algorithms practice |
 
 ## 📈 Recent Activity
+<!--START_SECTION:activity-->
 - 🚀 Actively maintaining Leetcode Journey with daily DSA practice
 - 🤖 Building AI/RAG systems and learning LLM fine-tuning
 - 💻 Contributing to full-stack projects (JavaScript, Python, FastAPI)
 - 🔗 Exploring blockchain and smart contracts
+<!--END_SECTION:activity-->
 
 ## 📫 Let's Connect
 - **LinkedIn:** [@markus-mikely](https://linkedin.com/in/markus-mikely-81666630)
