@@ -52,10 +52,10 @@
 
 ## 📈 Recent Activity
 <!--START_SECTION:activity-->
-- 🚀 Actively maintaining Leetcode Journey with daily DSA practice
-- 🤖 Building AI/RAG systems and learning LLM fine-tuning
-- 💻 Contributing to full-stack projects (JavaScript, Python, FastAPI)
-- 🔗 Exploring blockchain and smart contracts
+1. 🎉 Merged PR [#2](https://github.com/markusmikely/preciousmarketwatch/pull/2) in [markusmikely/preciousmarketwatch](https://github.com/markusmikely/preciousmarketwatch)
+2. 💪 Opened PR [#2](https://github.com/markusmikely/preciousmarketwatch/pull/2) in [markusmikely/preciousmarketwatch](https://github.com/markusmikely/preciousmarketwatch)
+3. 🎉 Merged PR [#1](https://github.com/markusmikely/preciousmarketwatch/pull/1) in [markusmikely/preciousmarketwatch](https://github.com/markusmikely/preciousmarketwatch)
+4. 💪 Opened PR [#1](https://github.com/markusmikely/preciousmarketwatch/pull/1) in [markusmikely/preciousmarketwatch](https://github.com/markusmikely/preciousmarketwatch)
 <!--END_SECTION:activity-->
 
 ## 📫 Let's Connect
