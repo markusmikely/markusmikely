@@ -52,10 +52,10 @@
 
 ## 📈 Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/markusmikely/preciousmarketwatch/pull/7) in [markusmikely/preciousmarketwatch](https://github.com/markusmikely/preciousmarketwatch)
-2. 💪 Opened PR [#7](https://github.com/markusmikely/preciousmarketwatch/pull/7) in [markusmikely/preciousmarketwatch](https://github.com/markusmikely/preciousmarketwatch)
-3. 🎉 Merged PR [#6](https://github.com/markusmikely/preciousmarketwatch/pull/6) in [markusmikely/preciousmarketwatch](https://github.com/markusmikely/preciousmarketwatch)
-4. 💪 Opened PR [#6](https://github.com/markusmikely/preciousmarketwatch/pull/6) in [markusmikely/preciousmarketwatch](https://github.com/markusmikely/preciousmarketwatch)
+1. 🎉 Merged PR [#9](https://github.com/markusmikely/preciousmarketwatch/pull/9) in [markusmikely/preciousmarketwatch](https://github.com/markusmikely/preciousmarketwatch)
+2. 💪 Opened PR [#9](https://github.com/markusmikely/preciousmarketwatch/pull/9) in [markusmikely/preciousmarketwatch](https://github.com/markusmikely/preciousmarketwatch)
+3. 🎉 Merged PR [#8](https://github.com/markusmikely/preciousmarketwatch/pull/8) in [markusmikely/preciousmarketwatch](https://github.com/markusmikely/preciousmarketwatch)
+4. 💪 Opened PR [#8](https://github.com/markusmikely/preciousmarketwatch/pull/8) in [markusmikely/preciousmarketwatch](https://github.com/markusmikely/preciousmarketwatch)
 <!--END_SECTION:activity-->
 
 ## 📫 Let's Connect
